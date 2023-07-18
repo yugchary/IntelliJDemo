@@ -6,5 +6,7 @@ public class master {
     // write your code here
     System.out.println("First Line");
     System.out.println("second line");
+    System.out.println("Thrid line");
+    System.out.println("Fourth line");
   }
 }
